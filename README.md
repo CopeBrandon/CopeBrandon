@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CopeBrandon
 - 👀 I’m interested in doing coding regarding data, science, and/or gaming. 
 - 🌱 I’m currently learning Java Web Development.
-- 💞️ I’m looking to collaborate on something. I don't really have a strong vision right now for what interests me specifically.
+- 💞️ I’m looking to collaborate on something. I don't really have a strong vision right now for what projects interest me specifically.
 - 📫 How to reach me: Hunterv96@gmail.com
 
 <!---
