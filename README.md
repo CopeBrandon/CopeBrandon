@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CopeBrandon
 - 👀 I’m interested in doing coding regarding data, science, and/or gaming. 
-- 🌱 I’m currently learning Java Web Development.
+- 🌱 I’m currently learning React, Hibernate, and LUA on the side.
 - 💞️ I’m looking to collaborate on something. I don't really have a strong vision right now for what projects interest me specifically.
 - 📫 How to reach me: Hunterv96@gmail.com
 
