@@ -9,7 +9,7 @@ Hey
 The name's Brandon Cope. I'm a guy who loves numbers and gaming: an avid computer user who has been attached directly to his PC since 2006. I've been working on my tech knowledge since January 2022 when I took the LaunchCode Part-Time WebDev Course which focused on Javascript, Java, Angular, and SpringBoot. I used React for a group project in the class(big fan).
 I've been modding my games since Elder Scrolls: Oblivion. I wish I could say I made them, but I mostly just messed around with other people's stuff. I had more fun installing and troubleshooting than actually playing though. 
 
-Since I graduated for Launchcode, I've been playing with Python, Lua, C#, JavaScript, and Rust. So far I've been enjoying everything I've touched, other than the initial frustration of thinking everything is stupid until I realize it's like that for a reason...
+Since I graduated for LaunchCode, I've been playing with Python, Lua, C#, JavaScript, and Rust. So far I've been enjoying everything I've touched, other than the initial frustration of thinking everything is stupid until I realize it's like that for a reason...
 
 I'd love to participate in a project regarding making desktop applications, games, or websites.
 
